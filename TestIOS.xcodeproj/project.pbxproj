@@ -156,6 +156,7 @@
 		08C1A8221BFBDFC100019844 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = Test;
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				08C1A84B1BFBDFC100019844 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		08C1A84C1BFBDFC100019844 /* Build configuration list for PBXNativeTarget "TestIOSTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				08C1A84E1BFBDFC100019844 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
